@@ -24,7 +24,7 @@ public class AudioController : MonoBehaviour {
 
     private  AudioSource audSrc;
 
-    virtual 
+    
     internal static AudioController audioController = null;
     #endregion
 
